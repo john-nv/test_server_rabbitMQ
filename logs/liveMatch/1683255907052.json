@@ -1,0 +1,616 @@
+[
+  {
+    "H": {
+      "V": 3,
+      "MT": "E",
+      "EID": 4506893,
+      "BRID": 41009889,
+      "SFID": 3363770,
+      "MON": 48,
+      "S": "H",
+      "GID": 2021,
+      "GN": "South Korea",
+      "CID": 1033437,
+      "CN": "1st League - Play Offs",
+      "HID": 1302557,
+      "HN": "Doosan",
+      "HC": "#F0F0F0,#F0F0F0,#D446BA,#00C1BA,#C40010,#0046A8,#3D4A4E|",
+      "AID": 1304136,
+      "AN": "Incheon City",
+      "AC": "#800000,#0A0A0A,#D446BA,#00C1BA,#C40010,#0046A8,#3D4A4E|",
+      "KT": "2023-05-05T03:00:00.000+0000",
+      "ES": "O",
+      "MS": "IP",
+      "MX": "100.0",
+      "MP": "100.0",
+      "FT": "",
+      "BP": null,
+      "PR": "6",
+      "MTS": "2023-05-05T03:05:06.144+0000",
+      "PTS": "2023-05-05T03:05:06.637+0000",
+      "HV": "e860e8f4926531a8ce8b82ee23efe762cd3bcfd8",
+      "MTE": "1",
+      "PL": 30,
+      "FB": "",
+      "FBT": ""
+    },
+    "P": {
+      "N": "FH",
+      "T": {
+        "M": "4",
+        "S": "30"
+      }
+    },
+    "R": {
+      "G": "1-1"
+    },
+    "S": [
+      {
+        "PN": "FH",
+        "G": "1-1"
+      }
+    ],
+    "SD": {
+      "N": "Possession",
+      "SD": {
+        "SN": "Possession",
+        "TN": "Doosan",
+        "PN": ""
+      },
+      "POS": "52-48"
+    },
+    "M": [
+      {
+        "C": "TOTAL_GOALS_HOME_1ST_HALF",
+        "MS": "CLOSED",
+        "B": "13.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.6",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "2.05",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_HOME_1ST_HALF",
+        "MS": "CLOSED",
+        "B": "12.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.6",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "2.05",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_HOME_1ST_HALF",
+        "MS": "OPEN",
+        "B": "11.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.85",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.77",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "AH_HANDICAP_WITHOUT_OT",
+        "MS": "OPEN",
+        "B": "-1.5",
+        "S": [
+          {
+            "N": "1",
+            "O": "1.77",
+            "P": null
+          },
+          {
+            "N": "2",
+            "O": "1.85",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "AH_HANDICAP_WITHOUT_OT",
+        "MS": "CLOSED",
+        "B": "-2.5",
+        "S": [
+          {
+            "N": "1",
+            "O": "1.8",
+            "P": null
+          },
+          {
+            "N": "2",
+            "O": "1.8",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "1X2",
+        "MS": "OPEN",
+        "S": [
+          {
+            "N": "1",
+            "O": "1.5",
+            "P": null
+          },
+          {
+            "N": "X",
+            "O": "7.05",
+            "P": null
+          },
+          {
+            "N": "2",
+            "O": "3.1",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "HANDICAP_1ST_HALF",
+        "MS": "OPEN",
+        "B": "-1.0",
+        "S": [
+          {
+            "N": "1",
+            "O": "2.15",
+            "P": null
+          },
+          {
+            "N": "X",
+            "O": "8.15",
+            "P": null
+          },
+          {
+            "N": "2",
+            "O": "1.85",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "DOUBLE_CHANCE_1ST_HALF",
+        "MS": "OPEN",
+        "S": [
+          {
+            "N": "1X",
+            "O": "1.27",
+            "P": null
+          },
+          {
+            "N": "12",
+            "O": "1.09",
+            "P": null
+          },
+          {
+            "N": "X2",
+            "O": "1.85",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_AWAY_WITHOUT_OT",
+        "MS": "CLOSED",
+        "B": "24.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.7",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.95",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_AWAY_WITHOUT_OT",
+        "MS": "CLOSED",
+        "B": "22.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.85",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.77",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_AWAY_WITHOUT_OT",
+        "MS": "OPEN",
+        "B": "23.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.77",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.85",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "DRAW_NO_BET_1ST_HALF",
+        "MS": "OPEN",
+        "S": [
+          {
+            "N": "1",
+            "O": "1.43",
+            "P": null
+          },
+          {
+            "N": "2",
+            "O": "2.45",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_HOME_WITHOUT_OT",
+        "MS": "CLOSED",
+        "B": "26.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.72",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.92",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_HOME_WITHOUT_OT",
+        "MS": "CLOSED",
+        "B": "25.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.7",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.95",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_HOME_WITHOUT_OT",
+        "MS": "OPEN",
+        "B": "24.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.92",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.72",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_WITHOUT_OT",
+        "MS": "CLOSED",
+        "B": "50.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.77",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.85",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_WITHOUT_OT",
+        "MS": "CLOSED",
+        "B": "49.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.77",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.85",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_WITHOUT_OT",
+        "MS": "OPEN",
+        "B": "48.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.77",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.85",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "DRAW_NO_BET",
+        "MS": "OPEN",
+        "S": [
+          {
+            "N": "1",
+            "O": "1.33",
+            "P": null
+          },
+          {
+            "N": "2",
+            "O": "2.8",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_AWAY_1ST_HALF",
+        "MS": "CLOSED",
+        "B": "11.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.6",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "2.05",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_AWAY_1ST_HALF",
+        "MS": "OPEN",
+        "B": "10.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "2.05",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.6",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "DOUBLE_CHANCE",
+        "MS": "OPEN",
+        "S": [
+          {
+            "N": "1X",
+            "O": "1.25",
+            "P": null
+          },
+          {
+            "N": "12",
+            "O": "1.02",
+            "P": null
+          },
+          {
+            "N": "X2",
+            "O": "2.15",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "1ST_HALF",
+        "MS": "OPEN",
+        "S": [
+          {
+            "N": "1",
+            "O": "1.73",
+            "P": null
+          },
+          {
+            "N": "X",
+            "O": "4.9",
+            "P": null
+          },
+          {
+            "N": "2",
+            "O": "2.95",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "HANDICAP_WITHOUT_OT",
+        "MS": "OPEN",
+        "B": "-1.0",
+        "S": [
+          {
+            "N": "1",
+            "O": "1.75",
+            "P": null
+          },
+          {
+            "N": "X",
+            "O": "11.0",
+            "P": null
+          },
+          {
+            "N": "2",
+            "O": "2.15",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "HANDICAP_WITHOUT_OT",
+        "MS": "CLOSED",
+        "B": "-2.0",
+        "S": [
+          {
+            "N": "1",
+            "O": "1.82",
+            "P": null
+          },
+          {
+            "N": "X",
+            "O": "11.0",
+            "P": null
+          },
+          {
+            "N": "2",
+            "O": "2.05",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_1ST_HALF",
+        "MS": "CLOSED",
+        "B": "24.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.72",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.92",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_1ST_HALF",
+        "MS": "CLOSED",
+        "B": "23.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.7",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.95",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "TOTAL_GOALS_1ST_HALF",
+        "MS": "OPEN",
+        "B": "22.5",
+        "S": [
+          {
+            "N": "Under",
+            "O": "1.85",
+            "P": null
+          },
+          {
+            "N": "Over",
+            "O": "1.77",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "AH_HANDICAP_1ST_HALF",
+        "MS": "CLOSED",
+        "B": "-1.5",
+        "S": [
+          {
+            "N": "1",
+            "O": "1.8",
+            "P": null
+          },
+          {
+            "N": "2",
+            "O": "1.8",
+            "P": null
+          }
+        ]
+      },
+      {
+        "C": "AH_HANDICAP_1ST_HALF",
+        "MS": "OPEN",
+        "B": "-0.5",
+        "S": [
+          {
+            "N": "1",
+            "O": "1.77",
+            "P": null
+          },
+          {
+            "N": "2",
+            "O": "1.85",
+            "P": null
+          }
+        ]
+      }
+    ],
+    "B": null,
+    "BB": {
+      "S": 0,
+      "E": 0,
+      "BID": "0",
+      "CE": 0,
+      "TQH": 0,
+      "TQA": 0,
+      "CBE": 0
+    },
+    "PL": {},
+    "PS": {}
+  }
+]

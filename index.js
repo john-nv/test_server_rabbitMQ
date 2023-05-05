@@ -3,16 +3,17 @@
     connect RabbitMQ
 */
 
-const AMQPReceiver = require('./testRabbitMQ/receiveRabbitMQ')
+const AMQPReceivePreMatch = require('./testRabbitMQ/receiveRabbitMQPreMatch')
+const AMQPReceiverLiveMatch = require('./testRabbitMQ/receiveRabbitMQLiveMatch')
 
 // => in file .env
-const amqpUrl = 'amqp://user_broker:sanbul123@103.31.12.63:5672/dataGamev1'
+const amqpUrl = 'amqp://user_client:sanbul246a@103.31.12.63:5672/dataFootball'
 const dataPreMatch = 'dataPreMatch'
 const dataLiveMatch = 'dataLiveMatch'
 const exchangeType = 'fanout'
 
-const getPreMatch = new AMQPReceiver(amqpUrl, dataPreMatch, exchangeType)
-const getLiveMatch = new AMQPReceiver(amqpUrl, dataLiveMatch, exchangeType)
+const getPreMatch = new AMQPReceivePreMatch(amqpUrl, dataPreMatch, exchangeType)
+const getLiveMatch = new AMQPReceiverLiveMatch(amqpUrl, dataLiveMatch, exchangeType)
 // <=
 
 getPreMatch.receiveData()
